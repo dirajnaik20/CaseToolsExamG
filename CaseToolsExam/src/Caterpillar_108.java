@@ -10,6 +10,11 @@ public class Caterpillar_108 {
 		this.cabbages=cabbages;
 	}
 	
+	int get_moves()
+	{
+		return moves;
+	}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
